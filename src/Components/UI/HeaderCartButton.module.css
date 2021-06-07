@@ -10,7 +10,8 @@
   align-items: center;
   border-radius: 25px;
   font-weight: bold;
-  box-shadow: 0.3rem 0.3rem 0.2rem #a1a1a1, -0.2rem -0.3rem 0.2rem #f3f3f3;
+  box-shadow: 0.3rem 0.3rem 0.3rem #f6f6f6,
+  -0.2rem -0.2rem 0.2rem #a1a1a1;
   transition: all 0.2s linear;
 }
 
