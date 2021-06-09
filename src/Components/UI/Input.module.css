@@ -1,0 +1,27 @@
+.input {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+.input label {
+  font-weight: bold;
+  margin-right: 1rem;
+}
+.input input {
+  width: 3rem;
+  border-radius: 5px;
+  border: none;
+  font: inherit;
+  padding-left: 0.5rem;
+  color: #a1a1a1;
+  background: none;
+  box-shadow: 0.3rem 0.3rem 0.3rem #f6f6f6,
+            -0.2rem -0.2rem 0.2rem #a1a1a1;
+}
+
+.input input::placeholder {
+  color: #f6f6f6;
+}
+.input input:focus {
+  outline: none;
+}

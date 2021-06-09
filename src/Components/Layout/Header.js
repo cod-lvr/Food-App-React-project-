@@ -9,7 +9,8 @@ const Header = (props) => {
         <h1>MyMeal</h1>
         <HeaderCartButton/>
       </header>
-      <div className={classes["main-image"]}></div>
+      <div className={classes["main-image"]}>
+      </div>
     </Fragment>
   );
 };
