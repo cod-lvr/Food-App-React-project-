@@ -1,5 +1,5 @@
-# online-liberary-store
-this project for online book store to display books and listen it online ( using react. js and api ).
+# Food-App-React-project
+this project for food delivery trial app to display food list and order it online ( using react. js and api ).
 
 # Getting Started with Create React App
 
